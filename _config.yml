@@ -19,7 +19,7 @@ image: 'assets/images/casper.png'
 
 short_url: 'mjlab.github.io/'
 google_analytics: UA-69281367-1
-disqus: mjlab
+disqus: mjlab.disqus.com
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
