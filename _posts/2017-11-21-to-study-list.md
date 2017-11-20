@@ -17,3 +17,8 @@ tags:
 
 ### Courses
 * CS231n : [page](http://cs231n.github.io/), [github](https://github.com/cthorey/CS231)
+* CS224s : [page](http://web.stanford.edu/class/cs224s/)
+
+### Dataset
+* Fashion-MNIST : [github](https://github.com/zalandoresearch/fashion-mnist), [benchmark](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/)
+* Kaggle-Speech : [page](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
