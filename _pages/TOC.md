@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To Study List
+title: Table of Contents
 description: to study machine learning and deep learning list
 categories:
  - Study

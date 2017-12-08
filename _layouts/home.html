@@ -2,8 +2,8 @@
 layout: layout
 ---
 <h2>Static Posts &raquo; </h2>
-<li><a href="/study-list.html">To Study List</a></li>
-<hr style="border: solid 1px white;">  
+<li><a href="/toc.html">Table of Contents</a></li>
+<hr style="border: solid 1px white;">
 <h2>Recent Posts &raquo; </h2>
 {% for post in site.posts %}
   <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
