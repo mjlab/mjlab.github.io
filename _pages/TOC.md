@@ -25,6 +25,3 @@ tags:
 ### Dataset
 * Fashion-MNIST : [github](https://github.com/zalandoresearch/fashion-mnist), [benchmark](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/)
 * Kaggle-Speech : [page](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
-
-### IDE Settings
-* Jupyter : [theme](https://github.com/dunovank/jupyter-themes)
